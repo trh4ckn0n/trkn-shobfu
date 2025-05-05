@@ -4,6 +4,8 @@
 
 **trkn-shobfu** est un script Bash interactif conçu pour obfusquer des fichiers de manière personnalisée. Il permet à l'utilisateur de choisir parmi plusieurs niveaux d'obfuscation prédéfinis ou de personnaliser les paramètres d'obfuscation pour des besoins spécifiques.
 
+![Image Preview](https://h.top4top.io/p_3412c0kzo0.jpg)
+
 Ce script utilise le [obfsh](https://www.comp.eonworks.com/scripts/obfsh.gz) pour effectuer l'obfuscation, et propose une interface utilisateur simple pour faciliter le choix des options d'obfuscation.
 
 ## Fonctionnalités
