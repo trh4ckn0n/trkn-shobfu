@@ -25,10 +25,10 @@ Ce script utilise le [obfsh](https://www.comp.eonworks.com/scripts/obfsh.gz) pou
 
 1. Clonez le dépôt sur votre machine :
 
-   ```bash
-   git clone https://github.com/trh4ckn0n/trkn-shobfu.git
-   cd trkn-shobfu
-   ``` 
+```bash
+git clone https://github.com/trh4ckn0n/trkn-shobfu
+cd trkn-shobfu
+``` 
  
 2.  
 Assurez-vous que le script `bashobfu.sh` est exécutable :
@@ -36,9 +36,9 @@ Assurez-vous que le script `bashobfu.sh` est exécutable :
  chmod +x bashobfu.sh `
  ```
 
-4.  
+3.  
 Exécutez le script avec :
- ```
+ ```bash
  ./bashobfu.sh
  ```
 
@@ -70,14 +70,21 @@ Une fois l'obfuscation terminée, le script offre la possibilité de télécharg
 ## Exemple d'exécution
 
 
-$ ./bashobfu.sh
+```bash
+./bashobfu.sh
+```
+
 Choisissez le niveau d'obfuscation :
 1. Obfuscation légère
 2. Obfuscation moyenne
 3. Obfuscation forte
 4. Personnalisation complète
+
 Entrez votre choix : 3
 
 Entrez le fichier à obfusquer : script.sh
+
 L'obfuscation est en cours...
+
 Le fichier obfusqué a été généré sous le nom script_obfusque.sh.
+
